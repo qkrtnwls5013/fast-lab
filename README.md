@@ -1,0 +1,2 @@
+# fast-lab
+nextjs project
